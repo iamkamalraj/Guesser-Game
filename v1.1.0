@@ -100,7 +100,6 @@ class Umpire
 
 }
 
-
 public class Launchgame {
 
 	public static void main(String[] args) {
